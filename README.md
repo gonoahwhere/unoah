@@ -36,7 +36,7 @@ python3 -m pip install -r requirements.txt
 
 > Make sure you are inside the `unoah/` directory.
 
-#### Windows
+#### Windows
 ```bash
 python3 -m noah_uno
 ```
