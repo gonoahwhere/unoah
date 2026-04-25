@@ -18,7 +18,7 @@ This project is contained inside the `unoah/` folder and runs as a Python module
 
 ## Dependencies
 
-> Make sure you have Python3 installed. Windows may require installation, macOS and Linux it is standard
+> Make sure you have Python3 installed. This may require installation for your OS
 
 This project requires the following external library:
 
