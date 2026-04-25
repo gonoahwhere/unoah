@@ -1,0 +1,16 @@
+[format]
+# FORMATS CODE BLOCKS INSIDE DOCSTRINGS
+docstring-code-format = true
+
+# MAX LINE LENGTH FOR CODE INSIDE DOCSTRINGS
+docstring-code-line-length = 88
+
+# USE LF (\n) FOR LINE ENDINGS
+line-ending = "lf"
+
+# USES SINGLE QUOTES FOR STRINGS
+quote-style = "single"
+
+[lint]
+# IGNORE WARNINGS FOR LAMBDA VARIABLE ASSIGNMENTS
+ignore = ["E731"]

@@ -1,0 +1,30 @@
+{
+    "ocean": {
+        "bg_primary": "#0a0e27",
+        "bg_secondary": "#0d1b4b",
+        "bg_accent": "#1a3a8f",
+        "bg_hover": "#1e4db7",
+        "bg_card": "#112266",
+        "text_primary": "#e8f0ff",
+        "text_secondary": "#7a9fd4",
+        "button_bg": "#1e4db7",
+        "button_hover": "#2a74f0",
+        "button_text": "#ffffff",
+        "border": "#1a3a8f",
+        "highlight": "#4d9fff"
+    },
+    "sky": {
+        "bg_primary": "#b1cbe6",
+        "bg_secondary": "#97c8f3",
+        "bg_accent": "#5a9fd4",
+        "bg_hover": "#3a7fbf",
+        "bg_card": "#eaf2fb",
+        "text_primary": "#0a1a3a",
+        "text_secondary": "#2a5a8f",
+        "button_bg": "#1e6abf",
+        "button_hover": "#2a74f0",
+        "button_text": "#ffffff",
+        "border": "#5a9fd4",
+        "highlight": "#0a4a9f"
+    }
+}

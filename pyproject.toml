@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unoah"
+version = "1.0.0"
+description = "Every card you draw was chosen to specifically ruin your life."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "gonoahwhere" }]
+dependencies = [ "wxPython>=4.2.5" ]
+requires-python = ">=3.10"
+
+[project.urls]
+repository = "https://github.com/gonoahwhere/unoah"

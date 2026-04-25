@@ -1,0 +1,6 @@
+**/__pycache__/
+**/.DS_Store
+.ruff_cache/
+build/
+noah_uno.egg-info/
+noah_uno/scores.json
