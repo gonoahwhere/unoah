@@ -28,9 +28,9 @@ This project requires the following external library:
 
 ### Installing dependencies
 
-- Windows: `python3 -m pip install -r requirements.txt`
-- macOS: `python3 -m pip install -r requirements.txt`
-- Linux: `python3 -m pip install -r requirements.txt`
+```bash
+python3 -m pip install -r requirements.txt
+```
 
 ### Running the game
 
