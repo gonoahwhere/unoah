@@ -36,6 +36,12 @@ python3 -m pip install -r requirements.txt
 
 > Make sure you are inside the `unoah/` directory.
 
-- Windows: `python3 -m noah_uno`
-- macOS: `PYTHONDONTWRITEBYTECODE=1 python3 -m noah_uno`
-- Linux: `PYTHONDONTWRITEBYTECODE=1 python3 -m noah_uno`
+#### Windows
+```bash
+python3 -m noah_uno
+```
+
+#### macOS / Linux
+```bash
+PYTHONDONTWRITEBYTECODE=1 python3 -m noah_uno
+```
