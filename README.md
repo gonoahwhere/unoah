@@ -26,7 +26,7 @@ This project requires the following external library:
 
 ## Scripts
 
-### Installing dependencies
+### Installing dependencies
 
 - Windows: `python3 -m pip install -r requirements.txt`
 - macOS: `python3 -m pip install -r requirements.txt`
