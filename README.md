@@ -29,7 +29,7 @@ This project requires the following external library:
 ### Installing dependencies
 
 ```bash
-python3 -m pip install -r requirements.txt
+python3 -m pip install wxpython
 ```
 
 ### Running the game
